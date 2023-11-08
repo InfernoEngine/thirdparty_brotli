@@ -8,6 +8,7 @@
 		<Name>thirdparty_brotli</Name>
 		<SourceRoot>c</SourceRoot>
 		<ExportedIncludeDirectory>c/include</ExportedIncludeDirectory>
+		<LocalIncludeDirectory>c/include</LocalIncludeDirectory>
 
 		<ThirdParty>true</ThirdParty>
 		<ThirdPartySharedGlobalExportDefine>BROTLI_SHARED_COMPILATION</ThirdPartySharedGlobalExportDefine>
